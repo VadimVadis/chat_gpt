@@ -8,7 +8,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 import io
 
 # Токен
-TOKEN = '6281162664:AAGTGqQ_wvDTUfq_FfOxJ6kMeYhbUOTuqWs'
+TOKEN = ''
 
 users = [893685583, 6011446939]
 print("Работаю!")
