@@ -11,9 +11,9 @@ import openai
 from pydub import AudioSegment
 
 # Токены
-openai.api_key = "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"
-TOKEN = '5941193514:AAHaI47TlkBSYAjoDsontrkEmgM493vJyTA'
-PAYMENTS_TOKEN = '1744374395:TEST:0f42211fdbd4c4c990de'
+openai.api_key = ""
+TOKEN = ''
+PAYMENTS_TOKEN = ''
 
 # Работа с базой данных
 conn = sqlite3.connect('user.db')
